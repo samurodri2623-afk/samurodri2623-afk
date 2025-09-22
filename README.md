@@ -2,9 +2,9 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
-<!--
-**samurodri2623-afk/samurodri2623-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Sistemas apasionado por la tecnología y el aprendizaje constante. 
+   Me destaco por ser responsable, disciplinado y perseverante, cualidades que también aplico en mi vida deportiva como atleta. 
+   Me adapto fácilmente a nuevos entornos y disfruto asumir retos que me permitan crecer personal y profesionalmente.
 
 ## 🚀 Frase que me inspira:
 > "El éxito no llega por suerte, sino por disciplina y constancia." – *Mi propio camino*
