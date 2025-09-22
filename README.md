@@ -20,7 +20,7 @@ Soy estudiante de Ingeniería en Sistemas apasionado por la tecnología y el apr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 ## 🎓 Donde he estudiado:
-[![https://www.google.com/url?sa=i&url=https%3A%2F%2Fgerardoarias.calificanet.com.co%2F&psig=AOvVaw1vGLIfmmPqgtZOnPsdt8Iy&ust=1758659927714000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDcr_Wc7Y8DFQAAAAAdAAAAABAE](https://gerardoarias.calificanet.com.co/login/)
+[![Universidad de Manizales](https://upload.wikimedia.org/wikipedia/commons/c/c1/Logo_Universidad_de_Manizales.png)](https://umanizales.edu.co/)
 
 ---
 
