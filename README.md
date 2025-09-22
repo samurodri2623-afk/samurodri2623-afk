@@ -1,6 +1,6 @@
 ## Hola Bienvenido a mi Perfil Papayos 👋😎
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" /> Acerca de mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
+<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
 Soy estudiante de Ingeniería en Sistemas apasionado por la tecnología y el aprendizaje constante. 
    Me destaco por ser responsable, disciplinado y perseverante, cualidades que también aplico en mi vida deportiva como atleta. 
