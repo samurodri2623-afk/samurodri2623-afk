@@ -19,17 +19,8 @@ Soy estudiante de Ingeniería en Sistemas apasionado por la tecnología y el apr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
-
-## 🛠️ Otras Tecnologías que conozco:
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
 ## 🎓 Donde he estudiado:
-![IE Gerardo Arias Gamines](https://gerardoarias.calificanet.com.co/login/)
-![GlobalWord](https://globalword.edu.co/)
-![Universidad de Manizales](https://umanizales.edu.co/)
+[![Logo Empresa](https://www.tuempresa.com/logo.png)](https://www.tuempresa.com)
 
 ---
 
